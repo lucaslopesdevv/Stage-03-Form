@@ -112,6 +112,8 @@ body::before {
   color: #c1bccc;
 
   transition: 0.5s;
+
+  margin-left: 5px;
 }
 
 .mentorship-form label span:hover {
